@@ -101,7 +101,7 @@ A modern code-first reimplementation of the Asset Management System using Power 
 
 ### Microsoft 365 FAQ App
 
-🔗 [github.com/WRVish/M365-FAQ-App](https://github.com/WRVish/M365-FAQ-App)
+🔗 [github.com/WRVish/M365-FAQ-App](https://github.com/WRVish/M3365-FAQ-App)
 
 A Power Apps-based FAQ application for Microsoft 365 knowledge sharing and employee self-service. Provides a structured, searchable interface for internal knowledge that complements the Copilot Studio FAQ Agent.
 
