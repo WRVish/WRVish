@@ -244,4 +244,4 @@ Follow for practical Copilot Studio agent examples, Power Platform solutions, Sh
 
 *Building real-world Microsoft 365 solutions with AI · Singapore*
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=WRVish&theme=react-dark)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=WRVish&theme=react-dark&interval=month)
